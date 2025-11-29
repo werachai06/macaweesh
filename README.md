@@ -68,35 +68,40 @@ I enjoy simplifying complexity, designing practical workflows, and helping teams
 
 ## 🏗️ Featured Systems & Projects
 
-### **🧾 e-Approval System**
-A full digital approval workflow used across multiple business units.  
-- Reduced approval time from several days to same-day completion  
-- Built with Laravel + React + PostgreSQL  
+### **💲 Debt Management System** *(Finance • Banking • Debt Collection)*  
+An all-in-one platform covering debtor profiles, call operations, legal workflows, finance tracking, and asset management.
 
-### **📞 Debt Management System**
-All-in-one platform for debtor tracking, legal workflow, finance, and call operations.  
-Highly customizable for complex debt collection processes.
+### **🔁 Debt Exchange Platform** *(Finance • Credit • Portfolio Management)*  
+A system that centralizes debt portfolio exchange between debt owners and collectors to improve collection efficiency.
 
-### **🔁 Debt Exchange Platform**
-Connects debt owners and collectors, improves debt portfolio assignment and performance.
+### **🧾 e-Approval System** *(Corporate Services • Executive Office • Multidepartment)*  
+A full digital approval workflow used by HR, Finance, Legal, Sales, and Executive Office.  
+Reduces approval time from days to same-day decision.
 
-### **📊 Project, Task & Timesheet System**
-Organization-wide productivity platform supporting all BUs.
+### **📊 Project, Task & Timesheet Management System** *(Operations • PMO • IT Management)*  
+Organization-wide platform for project planning, task tracking, workload visibility, and weekly reporting.
 
-### **💳 DirectLoan – Credit Analysis System**
-Structured customer data intake and scoring logic for faster loan decisions.
+### **💳 DirectLoan – Credit Analysis System** *(Finance • Credit Analysis • Sales)*  
+A fast-track platform that collects customer data, evaluates purchase potential, and supports Sales + Credit collaboration.
 
-### **👤 HR Database & SSO Foundation**
-Centralized employee profile and access control for internal systems.
+### **👤 HR Database & SSO Foundation** *(Human Resources • Identity Management)*  
+A central employee database with role-based access control for all internal systems.
 
-### **🏨 Hotel Guest Service System**
-Handles room service, item requests, and food service workflows.
+### **🏨 Hotel Guest Service System** *(Hospitality • Customer Service)*  
+Lightweight system to handle room service, item requests, and food order workflows.
 
-### **🎫 Event Manager & QR Check-in**
-Event registration, RSVP, and QR-based check-in system.
+### **🎫 Event Manager & QR Check-in System** *(Event Management • Corporate Communications)*  
+Event registration and invitation portal with automatic email confirmation and QR-based check-in.
 
-### **🔧 Construction Defect Tracking**
-Tracks construction issues, repairs, and inspection workflows.
+### **🔧 Construction Defect Tracking System** *(Construction • Real Estate • Quality Control)*  
+Tracks construction defects, repair workflows, and contractor actions from discovery to resolution.
+
+### **📄 Document Management & Tracking System** *(Legal • Compliance • Corporate Governance)*  
+Improves audit accuracy by tracking contract and document usage across all departments.
+
+### **💻 IT Asset Tracking System** *(IT Infrastructure • Operations)*  
+Simple internal tool to track computers, accessories, and IT equipment at the organization level.
+
 
 ---
 
