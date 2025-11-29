@@ -70,35 +70,35 @@ I enjoy simplifying complexity, designing practical workflows, and helping teams
 
 ### **💲 Debt Management System** *(Finance • Banking • Debt Collection)*  
 An all-in-one platform covering debtor profiles, call operations, legal workflows, finance tracking, and asset management.
-
+______
 ### **🔁 Debt Exchange Platform** *(Finance • Credit • Portfolio Management)*  
 A system that centralizes debt portfolio exchange between debt owners and collectors to improve collection efficiency.
-
+______
 ### **🧾 e-Approval System** *(Corporate Services • Executive Office • Multidepartment)*  
 A full digital approval workflow used by HR, Finance, Legal, Sales, and Executive Office.  
 Reduces approval time from days to same-day decision.
-
+______
 ### **📊 Project, Task & Timesheet Management System** *(Operations • PMO • IT Management)*  
 Organization-wide platform for project planning, task tracking, workload visibility, and weekly reporting.
-
+______
 ### **💳 DirectLoan – Credit Analysis System** *(Finance • Credit Analysis • Sales)*  
 A fast-track platform that collects customer data, evaluates purchase potential, and supports Sales + Credit collaboration.
-
+______
 ### **👤 HR Database & SSO Foundation** *(Human Resources • Identity Management)*  
 A central employee database with role-based access control for all internal systems.
-
+______
 ### **🏨 Hotel Guest Service System** *(Hospitality • Customer Service)*  
 Lightweight system to handle room service, item requests, and food order workflows.
-
+______
 ### **🎫 Event Manager & QR Check-in System** *(Event Management • Corporate Communications)*  
 Event registration and invitation portal with automatic email confirmation and QR-based check-in.
-
+______
 ### **🔧 Construction Defect Tracking System** *(Construction • Real Estate • Quality Control)*  
 Tracks construction defects, repair workflows, and contractor actions from discovery to resolution.
-
+______
 ### **📄 Document Management & Tracking System** *(Legal • Compliance • Corporate Governance)*  
 Improves audit accuracy by tracking contract and document usage across all departments.
-
+______
 ### **💻 IT Asset Tracking System** *(IT Infrastructure • Operations)*  
 Simple internal tool to track computers, accessories, and IT equipment at the organization level.
 
