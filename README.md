@@ -1,22 +1,21 @@
-# Weerachai Tamboon (Mac)
-
+# **Weerachai Tamboon (Mac)**  
 **IT Manager • Software Development Manager • Digital Transformation Lead**
 
 Building practical systems that solve real business problems and improve organizational efficiency.
 
 ---
 
-## About Me
+## **📘 About Me**
 
 I work in the technology field with experience in system design, software development, business analysis, and digital transformation. My main focus is turning complex business processes into stable, scalable, and maintainable digital platforms.
 
-I have delivered more than ten internal systems for HR, Finance, Sales, Credit Analysis, Legal, Operations, Construction, and Executive Office. Most of these systems were built end-to-end — from pain point discovery and requirements analysis to architecture, development, deployment, training, and ongoing improvement.
+I have delivered more than ten internal systems for HR, Finance, Sales, Credit Analysis, Legal, Operations, Construction, and Executive Office. Most systems were delivered end-to-end — from pain point discovery and requirements to architecture, development, deployment, training, and continuous improvement.
 
-I enjoy simplifying complexity, designing clear workflows, and helping teams adopt tools that align with real business needs. I adapt quickly to new domains, work closely with stakeholders at all levels, and focus on creating long-term solutions rather than temporary fixes.
+I enjoy simplifying complexity, designing clear workflows, and helping teams adopt tools that align with real operational needs. I adapt quickly to new domains, collaborate well with all stakeholders, and focus on long-term value.
 
 ---
 
-## What I Deliver (End-to-End)
+## **⚙️ What I Deliver (End-to-End)**
 
 - Business discovery and requirements  
 - System architecture and workflow design  
@@ -26,39 +25,39 @@ I enjoy simplifying complexity, designing clear workflows, and helping teams ado
 - User training and rollout  
 - KPI and performance measurement  
 
-*“AI and technology only create value when paired with the right thinking, communication, and practical integration.”*
+> *“AI only creates value when paired with the right thinking, communication, and practical integration.”*
 
 ---
 
-## Core Skills
+## **🧩 Core Skills**
 
-### Digital Transformation & Leadership
+### **Digital Transformation & Leadership**
 - Business analysis  
 - Cross-department collaboration  
 - Multi-project and program management  
-- Change management and rollout strategy  
+- Change management and rollout  
 
-### System Architecture & Backend
+### **System Architecture & Backend**
 - Laravel (PHP)  
 - Node.js  
-- System and workflow design  
+- Architecture and workflow design  
 - API design  
 - PostgreSQL / MySQL  
 
-### Frontend & UX
+### **Frontend & UX**
 - React  
 - TypeScript  
 - Webflow  
 - Figma  
 
-### DevOps & Infrastructure
+### **DevOps & Infrastructure**
 - Ubuntu Server  
 - AWS  
 - Git  
 - Nginx  
 - Basic Docker  
 
-### Supporting Tools
+### **Supporting Tools**
 - Draw.io / Visio  
 - Mermaid  
 - Prisma  
@@ -67,72 +66,92 @@ I enjoy simplifying complexity, designing clear workflows, and helping teams ado
 
 ---
 
-## Selected Systems & Projects
+## **📂 Selected Systems & Projects**
 
-### Debt Management System  
+### **Debt Management System**  
 **Field:** Finance • Banking • Debt Collection  
-A comprehensive platform for debtor management, call operations, legal workflows, finance tracking, and asset management.
+A comprehensive platform covering full debt collection workflow: debtor profiles, call operations, legal process, finance tracking, and asset management.
 
-### Debt Exchange Platform  
+---
+
+### **Debt Exchange Platform**  
 **Field:** Finance • Credit • Portfolio Management  
-A system for debt portfolio exchange between debt owners and collectors to improve collection performance.
+A centralized platform for debt owners and collectors to exchange and manage portfolios more efficiently.
 
-### e-Approval System  
+---
+
+### **e-Approval System**  
 **Field:** Corporate Services • Executive Office • Multidepartment  
-A digital approval workflow for HR, Finance, Legal, Sales, and Executive Office.  
-Reduced approval time from several days to same-day decision.
+A digital approval workflow used across multiple departments.  
+Reduced approval time from several days to same-day response.
 
-### Project, Task & Timesheet Management  
+---
+
+### **Project, Task & Timesheet Management**  
 **Field:** Operations • PMO • IT Management  
-An organization-wide system for planning, task tracking, workload visibility, and reporting.
+Platform for project planning, task tracking, workload visibility, and reporting.
 
-### DirectLoan – Credit Analysis System  
+---
+
+### **DirectLoan – Credit Analysis System**  
 **Field:** Finance • Credit Analysis • Sales  
-A platform for collecting customer data, evaluating purchase potential, and standardizing the Sales–Credit workflow.
+Structured customer data intake, scoring, and cross-team decision support.
 
-### HR Database & SSO Foundation  
+---
+
+### **HR Database & SSO Foundation**  
 **Field:** Human Resources • Identity Management  
-Centralized employee data with role-based access control for internal systems.
+Central employee database with role-based access control for internal systems.
 
-### Hotel Guest Service System  
+---
+
+### **Hotel Guest Service System**  
 **Field:** Hospitality • Customer Service  
-A lightweight workflow system for room service, item requests, and food orders.
+Workflow for room service requests, item handling, and food orders.
 
-### Event Manager & QR Check-In  
+---
+
+### **Event Manager & QR Check-In System**  
 **Field:** Event Management • Corporate Communications  
-A system for event registration, invitations, confirmation emails, and QR-based check-in.
+Registration, invitation workflow, and real-time QR check-in.
 
-### Construction Defect Tracking  
+---
+
+### **Construction Defect Tracking System**  
 **Field:** Construction • Real Estate • Quality Assurance  
-Tracks construction defects, repair timelines, and contractor responsibilities.
+Tracks defects, repair workflows, and contractor responsibilities.
 
-### Document Management & Tracking  
+---
+
+### **Document Management & Tracking System**  
 **Field:** Legal • Compliance • Corporate Governance  
-Tracks document circulation, contract usage, and improves audit accuracy.
+Tracks document circulation and improves contract audit accuracy.
 
-### IT Asset Tracking  
+---
+
+### **IT Asset Tracking System**  
 **Field:** IT Infrastructure • Operations  
-A tool for tracking computers, accessories, and IT equipment across the organization.
+Tracks IT equipment lifecycle across all departments.
 
 ---
 
-## Current Focus
+## **📌 Current Focus**
 
-- Building a new portfolio website to showcase transformation projects  
-- Preparing for next career move in digital transformation and software development leadership  
+- Building a new portfolio website showcasing major transformation projects  
+- Preparing for next career move in digital transformation and software development management  
 - Improving system architecture and deployment workflows  
-- Strengthening English communication and preparing for TOEIC  
+- Preparing for TOEIC and reinforcing English communication  
 
 ---
 
-## Philosophy
+## **📖 Philosophy**
 
-Technology works best when paired with the right strategy and clear communication.  
-Every system needs a strong standard and a deep understanding of how people truly work.
+Technology is only effective when paired with clear strategy and strong communication.  
+Every system needs a solid standard — and a deep understanding of how people truly work.
 
 ---
 
-## Contact
+## **📫 Contact**
 
 **Email:** your.email@example.com  
 **Location:** Chiang Mai, Thailand  
@@ -140,4 +159,4 @@ Every system needs a strong standard and a deep understanding of how people trul
 
 ---
 
-If you would like to collaborate or discuss technology and digital transformation, feel free to connect.
+If you would like to collaborate or discuss digital transformation and system development, feel free to connect.
