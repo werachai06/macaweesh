@@ -1,9 +1,11 @@
 # **Weerachai Tamboon (Mac)**  
-<a href="#projects" style="display:inline-block; padding:4px 10px; margin:2px 4px; border-radius:999px; border:1px solid #888; font-size:12px; font-weight:600; text-decoration:none; color:inherit;">
-  IT Manager
-</a>
 
-Building practical systems that solve real business problems and improve organizational efficiency.
+[![IT Manager](https://img.shields.io/badge/IT%20Manager-610F15?style=for-the-badge&labelColor=30070B)](#)
+[![Software Development Manager](https://img.shields.io/badge/Software%20Development%20Manager-610F15?style=for-the-badge&labelColor=30070B)](#)
+[![Digital Transformation Lead](https://img.shields.io/badge/Digital%20Transformation%20Lead-610F15?style=for-the-badge&labelColor=30070B)](#)
+
+
+“AI doesn’t create results — people do. Technology works only when paired with clear thinking, the right strategy, and real human judgment.”
 
 <p dir="auto"><a href="https://www.typescriptlang.org/" title="Typescript" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px" style="max-width: 100%; height: auto; max-height: 21px;"></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/javascript.svg" alt="JavaScript" width="21px" height="21px" style="max-width: 100%; height: auto; max-height: 21px;"></a>
@@ -52,17 +54,8 @@ Building practical systems that solve real business problems and improve organiz
 
 ---
 
-## **📘 About Me**
 
-I work in the technology field with experience in system design, software development, business analysis, and digital transformation. My main focus is turning complex business processes into stable, scalable, and maintainable digital platforms.
-
-I have delivered more than ten internal systems for HR, Finance, Sales, Credit Analysis, Legal, Operations, Construction, and Executive Office. Most systems were delivered end-to-end — from pain point discovery and requirements to architecture, development, deployment, training, and continuous improvement.
-
-I enjoy simplifying complexity, designing clear workflows, and helping teams adopt tools that align with real operational needs. I adapt quickly to new domains, collaborate well with all stakeholders, and focus on long-term value.
-
----
-
-## **⚙️ What I Deliver (End-to-End)**
+## **⚙️ Delivered to the world!** 
 
 - Business discovery and requirements  
 - System architecture and workflow design  
@@ -74,136 +67,98 @@ I enjoy simplifying complexity, designing clear workflows, and helping teams ado
 
 > *“AI only creates value when paired with the right thinking, communication, and practical integration.”*
 
----
 
-## **🧩 Core Skills**
-
-### **Digital Transformation & Leadership**
-- Business analysis  
-- Cross-department collaboration  
-- Multi-project and program management  
-- Change management and rollout  
-
-### **System Architecture & Backend**
-- Laravel (PHP)  
-- Node.js  
-- Architecture and workflow design  
-- API design  
-- PostgreSQL / MySQL  
-
-### **Frontend & UX**
-- React  
-- TypeScript  
-- Webflow  
-- Figma  
-
-### **DevOps & Infrastructure**
-- Ubuntu Server  
-- AWS  
-- Git  
-- Nginx  
-- Basic Docker  
-
-### **Supporting Tools**
-- Draw.io / Visio  
-- Mermaid  
-- Prisma  
-- DBdiagram.io  
-- Excel modeling  
-
----
-
-## **📂 Selected Systems & Projects**
+## **📂 Completed Systems & Projects**
 
 ### **Debt Management System**  
-**Field:** Finance • Banking • Debt Collection  
+[![Finance](https://img.shields.io/badge/💰%20Finance-374151?style=for-the-badge)]()
+[![Banking](https://img.shields.io/badge/🏦%20Banking-374151?style=for-the-badge)]()
+[![Debt Collection](https://img.shields.io/badge/📞%20Debt%20Collection-374151?style=for-the-badge)]()
+
 A comprehensive platform covering full debt collection workflow: debtor profiles, call operations, legal process, finance tracking, and asset management.
 
 ---
 
 ### **Debt Exchange Platform**  
-**Field:** Finance • Credit • Portfolio Management  
+[![Finance](https://img.shields.io/badge/💰%20Finance-374151?style=for-the-badge)]()
+[![Credit](https://img.shields.io/badge/💳%20Credit-374151?style=for-the-badge)]()
+[![Portfolio](https://img.shields.io/badge/📊%20Portfolio%20Management-374151?style=for-the-badge)]()
+
 A centralized platform for debt owners and collectors to exchange and manage portfolios more efficiently.
 
 ---
 
 ### **e-Approval System**  
-**Field:** Corporate Services • Executive Office • Multidepartment  
-A digital approval workflow used across multiple departments.  
-Reduced approval time from several days to same-day response.
+[![Corporate Services](https://img.shields.io/badge/🏢%20Corporate%20Services-374151?style=for-the-badge)]()
+[![Executive Office](https://img.shields.io/badge/👔%20Executive%20Office-374151?style=for-the-badge)]()
+[![Multidepartment](https://img.shields.io/badge/📂%20Multidepartment-374151?style=for-the-badge)]()
+
+A digital approval workflow used across multiple departments, enabling same-day approvals.
 
 ---
 
 ### **Project, Task & Timesheet Management**  
-**Field:** Operations • PMO • IT Management  
+[![Operations](https://img.shields.io/badge/⚙️%20Operations-374151?style=for-the-badge)]()
+[![PMO](https://img.shields.io/badge/📈%20PMO-374151?style=for-the-badge)]()
+[![IT Management](https://img.shields.io/badge/💻%20IT%20Management-374151?style=for-the-badge)]()
+
 Platform for project planning, task tracking, workload visibility, and reporting.
 
 ---
 
 ### **DirectLoan – Credit Analysis System**  
-**Field:** Finance • Credit Analysis • Sales  
-Structured customer data intake, scoring, and cross-team decision support.
+[![Finance](https://img.shields.io/badge/💰%20Finance-374151?style=for-the-badge)]()
+[![Credit Analysis](https://img.shields.io/badge/🧮%20Credit%20Analysis-374151?style=for-the-badge)]()
+[![Sales](https://img.shields.io/badge/🛒%20Sales-374151?style=for-the-badge)]()
+
+Structured customer data intake, scoring, and cross-functional credit decision support.
 
 ---
 
 ### **HR Database & SSO Foundation**  
-**Field:** Human Resources • Identity Management  
-Central employee database with role-based access control for internal systems.
+[![Human Resources](https://img.shields.io/badge/👥%20Human%20Resources-374151?style=for-the-badge)]()
+[![Identity Management](https://img.shields.io/badge/🆔%20Identity%20Management-374151?style=for-the-badge)]()
+
+Central employee database with authentication and access control foundation.
 
 ---
 
 ### **Hotel Guest Service System**  
-**Field:** Hospitality • Customer Service  
+[![Hospitality](https://img.shields.io/badge/🏨%20Hospitality-374151?style=for-the-badge)]()
+[![Customer Service](https://img.shields.io/badge/🤝%20Customer%20Service-374151?style=for-the-badge)]()
+
 Workflow for room service requests, item handling, and food orders.
 
 ---
 
 ### **Event Manager & QR Check-In System**  
-**Field:** Event Management • Corporate Communications  
-Registration, invitation workflow, and real-time QR check-in.
+[![Event Management](https://img.shields.io/badge/🎉%20Event%20Management-374151?style=for-the-badge)]()
+[![Corporate Communications](https://img.shields.io/badge/📣%20Corporate%20Communications-374151?style=for-the-badge)]()
+
+Registration workflow, invitation management, and real-time QR check-in.
 
 ---
 
 ### **Construction Defect Tracking System**  
-**Field:** Construction • Real Estate • Quality Assurance  
-Tracks defects, repair workflows, and contractor responsibilities.
+[![Construction](https://img.shields.io/badge/🚧%20Construction-374151?style=for-the-badge)]()
+[![Real Estate](https://img.shields.io/badge/🏘️%20Real%20Estate-374151?style=for-the-badge)]()
+[![Quality Assurance](https://img.shields.io/badge/✔️%20Quality%20Assurance-374151?style=for-the-badge)]()
+
+Tracks defects, repair workflows, and contractor performance.
 
 ---
 
 ### **Document Management & Tracking System**  
-**Field:** Legal • Compliance • Corporate Governance  
-Tracks document circulation and improves contract audit accuracy.
+[![Legal](https://img.shields.io/badge/⚖️%20Legal-374151?style=for-the-badge)]()
+[![Compliance](https://img.shields.io/badge/📜%20Compliance-374151?style=for-the-badge)]()
+[![Corporate Governance](https://img.shields.io/badge/🏛️%20Corporate%20Governance-374151?style=for-the-badge)]()
+
+Tracks document circulation, approvals, and audit trails.
 
 ---
 
 ### **IT Asset Tracking System**  
-**Field:** IT Infrastructure • Operations  
-Tracks IT equipment lifecycle across all departments.
+[![IT Infrastructure](https://img.shields.io/badge/🖥️%20IT%20Infrastructure-374151?style=for-the-badge)]()
+[![Operations](https://img.shields.io/badge/⚙️%20Operations-374151?style=for-the-badge)]()
 
----
-
-## **📌 Current Focus**
-
-- Building a new portfolio website showcasing major transformation projects  
-- Preparing for next career move in digital transformation and software development management  
-- Improving system architecture and deployment workflows  
-- Preparing for TOEIC and reinforcing English communication  
-
----
-
-## **📖 Philosophy**
-
-Technology is only effective when paired with clear strategy and strong communication.  
-Every system needs a solid standard — and a deep understanding of how people truly work.
-
----
-
-## **📫 Contact**
-
-**Email:** your.email@example.com  
-**Location:** Chiang Mai, Thailand  
-**LinkedIn:** (add your link)
-
----
-
-If you would like to collaborate or discuss digital transformation and system development, feel free to connect.
+Tracks IT asset lifecycle and movement across departments.
