@@ -1,39 +1,8 @@
 # **Weerachai Tamboon (Mac)**  
-<p>
-  <span style="
-    display:inline-block;
-    padding:4px 10px;
-    margin:2px 4px;
-    border-radius:999px;
-    border:1px solid #888;
-    font-size:12px;
-    font-weight:600;
-  ">
-    IT Manager
-  </span>
-  <span style="
-    display:inline-block;
-    padding:4px 10px;
-    margin:2px 4px;
-    border-radius:999px;
-    border:1px solid #888;
-    font-size:12px;
-    font-weight:600;
-  ">
-    Software Development Manager
-  </span>
-  <span style="
-    display:inline-block;
-    padding:4px 10px;
-    margin:2px 4px;
-    border-radius:999px;
-    border:1px solid #888;
-    font-size:12px;
-    font-weight:600;
-  ">
-    Digital Transformation Lead
-  </span>
-</p>
+<a href="#projects" style="display:inline-block; padding:4px 10px; margin:2px 4px; border-radius:999px; border:1px solid #888; font-size:12px; font-weight:600; text-decoration:none; color:inherit;">
+  IT Manager
+</a>
+
 Building practical systems that solve real business problems and improve organizational efficiency.
 
 <p dir="auto"><a href="https://www.typescriptlang.org/" title="Typescript" rel="nofollow"><img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="Typescript" width="21px" height="21px" style="max-width: 100%; height: auto; max-height: 21px;"></a>
